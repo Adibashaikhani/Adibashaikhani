@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adibashaikhani
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-- instagram-->adiba_shaikhanii
 
