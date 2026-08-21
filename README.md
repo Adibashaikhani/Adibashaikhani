@@ -42,4 +42,4 @@ Building a strong foundation in cybersecurity through hands-on projects, securit
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn]: https://www.linkedin.com/in/adiba-shaikhani-037576289/
