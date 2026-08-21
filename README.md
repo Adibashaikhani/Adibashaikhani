@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Adiba 👋
 
-<!--
-**Adibashaikhani/Adibashaikhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc Computer Science Student | Aspiring Cybersecurity Professional 🔐
 
-Here are some ideas to get you started:
+I'm an MSc Computer Science student interested in understanding how systems work, how they can be secured, and how technology can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my skills in cybersecurity through hands-on learning, technical projects, Linux, networking, Python, and security labs.
+
+## 🔐 Current Focus
+
+- Cybersecurity & Information Security
+- Network Security
+- Linux & Bash
+- Python & Scripting
+- Web Security
+- Security Labs & Hands-on Projects
+
+## 💻 Technical Skills
+
+**Languages:** Python · JavaScript · PHP · Bash · SQL · HTML · CSS
+
+**Frameworks:** Django · Flask · React · Streamlit
+
+**Databases:** MongoDB · PostgreSQL
+
+**Systems & Tools:** Linux · Git · GitHub
+
+**Currently Learning:** Cybersecurity · Network Security · Information Security
+
+## 🚀 Featured Projects
+
+- 🔐 Linux Shell Scripting & Backup Automation
+- 🎬 FlixSync — Virtual Watch Party Platform
+- 🍽️ Restaurant Management System
+- 🧠 Movie Review Sentiment Analysis
+- 🗺️ Trip Planner & Itinerary Generator
+- 🛍️ AntiHaul
+
+## 🎯 Current Goal
+
+Building a strong foundation in cybersecurity through hands-on projects, security labs, certifications, and practical experience, with the goal of pursuing cybersecurity internships.
+
+## 📫 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
